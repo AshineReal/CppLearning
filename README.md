@@ -4,7 +4,9 @@
 
 这是一个网站翻译仓库
 
-原网址地址 [learncpp](https://www.learncpp.com)
+原网址地址 [www.learncpp.com](https://www.learncpp.com)
+
+我翻译过后的[在这](https://github.com/AshineReal/CppLearning/blob/main/HomePage.md)
 
 # Goal
 
