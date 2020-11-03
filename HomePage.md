@@ -29,7 +29,7 @@ LearnCpp.com 是一个免费的专注于指导你如何使用c++编程的教程�
 | 1.2 || 注释 |
 | 1.3 || 变量 |
 | 1.4 || [变量的赋值和初始化](https://github.com/AshineReal/CppLearning/blob/main/1.4-%E5%8F%98%E9%87%8F%E7%9A%84%E8%B5%8B%E5%80%BC%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96.md) |
-| 1.5 || 使用cout，cin 和 endl |
+| 1.5 || [使用cout，cin 和 endl](https://github.com/AshineReal/CppLearning/blob/main/1.5-%E4%BB%8B%E7%BB%8Diostream:cout%2Ccin%E5%92%8Cendl.md) |
 | 1.6 || 未初始化的变量和未定义的行为 |
 | 1.7 || 关键字和命名标识符 |
 | 1.8 || 字面量和操作符 |
