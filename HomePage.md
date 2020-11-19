@@ -40,7 +40,7 @@ LearnCpp.com 是一个免费的专注于指导你如何使用c++编程的教程�
 
 | 章节2 | | c++基础:函数和文件 |
 | --- |--- | --- |
-| 2.1 || [函数](https://github.com/AshineReal/CppLearning/blob/main/2.1%20-%20%E5%87%BD%E6%95%B0.md) |
+| 2.1 || [函数](https://github.com/AshineReal/CppLearning/blob/main/2.1-%E5%87%BD%E6%95%B0.md) |
 | 2.2 || [返回值](https://github.com/AshineReal/CppLearning/blob/main/2.2-%E5%87%BD%E6%95%B0%E7%9A%84%E8%BF%94%E5%9B%9E%E5%80%BC.md) |
 | 2.3 || 函数的形参和实参 |
 | 2.4 || [局部作用域](https://github.com/AshineReal/CppLearning/blob/main/2.4-%E5%B1%80%E9%83%A8%E4%BD%9C%E7%94%A8%E5%9F%9F.md) |
